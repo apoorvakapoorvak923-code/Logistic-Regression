@@ -1,11 +1,7 @@
 # Logistic-Regression
 # Logistic Regression - Breast Cancer Classification
-
-## 📝 About
 This project demonstrates the implementation of **Logistic Regression** for a **binary classification problem** using the **Breast Cancer Wisconsin dataset** (`sklearn.datasets`).  
-
 The goal is to classify whether a tumor is **malignant (cancerous)** or **benign (non-cancerous)** based on 30 numerical medical features (e.g., radius, texture, smoothness).  
-
 Logistic Regression is a supervised learning algorithm widely used for classification. 
 It uses the **sigmoid function** to estimate probabilities and helps evaluate performance through metrics like **Precision, Recall, F1-Score, ROC Curve, and AUC**.  
 This repository provides a **complete end-to-end ML pipeline** — from data preparation to model training, evaluation, visualization, and threshold tuning.  
